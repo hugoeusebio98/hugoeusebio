@@ -1,3 +1,4 @@
-## This f# notebook evaluates the performance of a quantitative strategy based on the tax expense surprise signal described in Thomas and Zang (2011).
 
-## This project served as the final evaluation metric in the Data Analytics for Finance course in the master's in finance degree at Nova SBE.
+# This f# notebook evaluates the performance of a quantitative strategy based on the tax expense surprise signal described in Thomas and Zang (2011).
+
+# This project served as the final evaluation metric in the Data Analytics for Finance course in the master's in finance degree at Nova SBE.
